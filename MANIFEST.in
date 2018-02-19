@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gcalendar *.css
+recursive-include gcalendar *.csv
+recursive-include gcalendar *.html
+recursive-include gcalendar *.ico
+recursive-include gcalendar *.js
+recursive-include gcalendar *.json
+recursive-include gcalendar *.md
+recursive-include gcalendar *.png
+recursive-include gcalendar *.py
+recursive-include gcalendar *.svg
+recursive-include gcalendar *.txt
+recursive-exclude gcalendar *.pyc

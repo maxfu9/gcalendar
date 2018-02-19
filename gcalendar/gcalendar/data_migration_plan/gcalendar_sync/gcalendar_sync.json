@@ -1,0 +1,22 @@
+{
+ "creation": "2017-12-19 14:49:31.441916", 
+ "docstatus": 0, 
+ "doctype": "Data Migration Plan", 
+ "idx": 73, 
+ "mappings": [
+  {
+   "enabled": 1, 
+   "mapping": "Event to GCalendar"
+  }, 
+  {
+   "enabled": 1, 
+   "mapping": "GCalendar to Event"
+  }
+ ], 
+ "modified": "2018-02-19 21:10:05.897021", 
+ "modified_by": "Administrator", 
+ "module": "Gcalendar", 
+ "name": "GCalendar Sync", 
+ "owner": "Administrator", 
+ "plan_name": "GCalendar Sync"
+}
